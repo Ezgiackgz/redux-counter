@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.active{
+  background: purple;
+  color: aqua;
+}
+.dark {
+  background-color: black;
+  color: azure;
+}
